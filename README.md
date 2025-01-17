@@ -2,6 +2,42 @@
 
 This project includes initial tests using Jest to ensure the functionality of the React components.
 
+## Running Tests
+
+You can run the tests in several ways:
+
+### Run all tests
+
+```sh
+npm test
+```
+
+### Run tests in watch mode
+```sh
+npm test -- --watch
+```
+
+### Run a specific test file
+```sh
+npm test -- src/App.test.js
+```
+
+### Run tests with coverage
+```sh
+npm test -- --coverage
+```
+
+## Jest Extension
+
+For a better development experience, you can use the Jest extension for Visual Studio Code. It provides features like running tests directly from the editor, viewing test results, and more.
+
+## To install the Jest extension:
+
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+3. Search for "Jest" and install the extension by Orta.
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
