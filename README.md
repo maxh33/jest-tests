@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Purpose of this Repository: Initial Jest Tests
+
+This project includes initial tests using Jest to ensure the functionality of the React components.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
